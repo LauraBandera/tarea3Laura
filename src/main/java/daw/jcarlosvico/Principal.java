@@ -12,6 +12,6 @@ package daw.jcarlosvico;
 public class Principal {
     
     public static void main(String[] args) {
-        VentanaPrincipal ventanaPrincipal = new VentanaPrincipal();
+        VentanaPrincipal ventanaPrincipalLaura = new VentanaPrincipal();
     }
 }
